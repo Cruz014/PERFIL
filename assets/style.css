@@ -1,0 +1,39 @@
+body{
+    background-color: beige;
+}
+main{
+    background-color: rgb(beige);
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+    color: rgb(209, 39, 152);
+}
+.Sobre-Mim{
+    background-color: rgb(206, 141, 184);
+    padding: 10px 60px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: rgb(209, 39, 152);
+}
+.Detalhes>span{
+    display: block;
+    margin-top: px;
+}
+figure{
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+img{
+    background-color: rgb(209, 39, 152);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+button{
+    margin-bottom: 10px;
+    background-color: rgb(209, 39, 152);
+    border-radius: 15px;
+}
